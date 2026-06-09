@@ -13,4 +13,3 @@ yyopc is a 1 person software company who's aim is to mk ubiquitous software.
 - Keep tools close to the user.
 - Prefer concrete workflows over platform ceremony.
 - Make solo ownership explicit: small surface area, direct accountability, fast iteration.
-\
