@@ -1,6 +1,6 @@
 # yyopc
 
-yyopc is a 1 person software company who's aim is to mk ubiquitous software.
+yyopc is a one person company who's aim is to make ubiquitous software.
 
 ## Projects
 
